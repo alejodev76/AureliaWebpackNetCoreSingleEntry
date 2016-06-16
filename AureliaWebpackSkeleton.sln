@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7433D333-9D97-46BB-8CF5-562AD21950D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DF0CA8D-0CFA-4EE3-8291-1266266F437A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AureliaWebpackSkeleton", "src\AureliaWebpackSkeleton\AureliaWebpackSkeleton.xproj", "{8325A7E2-2A97-4813-9DFE-430CE5C39745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8325A7E2-2A97-4813-9DFE-430CE5C39745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8325A7E2-2A97-4813-9DFE-430CE5C39745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8325A7E2-2A97-4813-9DFE-430CE5C39745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8325A7E2-2A97-4813-9DFE-430CE5C39745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8325A7E2-2A97-4813-9DFE-430CE5C39745} = {7433D333-9D97-46BB-8CF5-562AD21950D7}
+	EndGlobalSection
+EndGlobal
